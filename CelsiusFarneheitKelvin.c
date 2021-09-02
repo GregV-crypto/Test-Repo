@@ -2,6 +2,7 @@
  * Total conversion calculator between 3 temperature types
  * @author Greg Vincent
  * 8/17/21
+ * This is version 1.0.0 of what will be known as the CFK.c program.
 */
 
 #include <stdio.h>
