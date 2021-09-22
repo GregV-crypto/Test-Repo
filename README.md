@@ -1,3 +1,8 @@
 # Test-Repo
-# Hopefully if all goes well, by the time I have a job in the industry, this first Repo will be nice to look back on.
+#First repository
 #9/2/21
+
+#Update as of 9/22/21
+#So far, everything is going well. Calculator project is at version 1.5
+
+
