@@ -10,4 +10,6 @@ C calculator was meant as a small side project to get more well-versed in C for 
 I find it to be a nice reminder of the past and what I started with. However, after moving to higher-level languages like JavaScript and Python,
 it has fallen by the way side for a long time. This will change soon though. C is a fun, albeit tedious language to work in.
 
+The structure of this first repo is also pretty sloppy in comparison to later ones...as it is my first ever. It's pretty cool however, a good benchmark
+of progress.
 
